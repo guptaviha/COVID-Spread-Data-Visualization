@@ -8,8 +8,9 @@ Developed a visualization tool to show a temporal and geospatial visualization o
 
 For more details: [Presentation](https://github.com/guptaviha/COVID-Spread-Data-Visualization/blob/master/Covid-Viz-Presentation.pdf) 
 
-## Visualization 
+## Visualization Tool
 
-<img src="https://github.com/guptaviha/COVID-Spread-Data-Visualization/blob/master/Img/choropleth-map.png" alt="Choropleth Map" width="400">
+<img src="https://github.com/guptaviha/COVID-Spread-Data-Visualization/blob/main/images/choropleth-map.png" alt="Choropleth Map" width="400">
+
 
 
